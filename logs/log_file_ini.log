@@ -1,0 +1,8 @@
+2023-09-17 17:39:49,045 : INFO : models.importer : Welcome to CSV Securer Script
+2023-09-17 17:39:49,045 : INFO : models.importer : Generating some CSV Content.
+2023-09-17 17:39:49,046 : INFO : models.importer : Sample CSV Data has been Generated
+2023-09-17 17:39:49,056 : INFO : models.importer : CSV File has been protected with Password
+2023-09-17 19:45:09,308 : INFO : models.importer : Welcome to CSV Securer Script
+2023-09-17 19:45:09,317 : INFO : models.importer : CSV File has been protected with Password
+2023-09-17 19:47:10,813 : INFO : models.importer : Welcome to CSV Securer Script
+2023-09-17 19:47:10,823 : INFO : models.importer : CSV File has been protected with Password
